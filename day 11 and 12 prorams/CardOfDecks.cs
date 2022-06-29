@@ -31,7 +31,7 @@ public class CardOfDecks
 		OOPsUtility.shuffleCardsDeck(cardsArray);
 		Console.WriteLine("**************************************");
 
-		// printing cards for 4 players
+		// printing cards for 4 player
 
 		int j2 = 0;
 		for (int i = 0; i < 4; i++)

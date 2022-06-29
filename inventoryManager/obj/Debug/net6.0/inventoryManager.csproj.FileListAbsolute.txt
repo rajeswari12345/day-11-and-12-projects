@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 11 and 12 prorams\inventoryManager\obj\Debug\net6.0\inventoryManager.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\inventoryManager\obj\Debug\net6.0\inventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 11 and 12 prorams\inventoryManager\obj\Debug\net6.0\inventoryManager.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\inventoryManager\obj\Debug\net6.0\inventoryManager.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 11 and 12 prorams\inventoryManager\obj\Debug\net6.0\inventoryManager.csproj.CoreCompileInputs.cache

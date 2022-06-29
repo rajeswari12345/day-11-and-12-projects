@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingStackTransactions\obj\Debug\net6.0\StockAccountUsingStackTransactions.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingStackTransactions\obj\Debug\net6.0\StockAccountUsingStackTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingStackTransactions\obj\Debug\net6.0\StockAccountUsingStackTransactions.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingStackTransactions\obj\Debug\net6.0\StockAccountUsingStackTransactions.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingStackTransactions\obj\Debug\net6.0\StockAccountUsingStackTransactions.csproj.CoreCompileInputs.cache

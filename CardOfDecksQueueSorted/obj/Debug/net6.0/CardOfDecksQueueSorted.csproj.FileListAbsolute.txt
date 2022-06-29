@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 11 and 12 prorams\CardOfDecksQueueSorted\obj\Debug\net6.0\CardOfDecksQueueSorted.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\CardOfDecksQueueSorted\obj\Debug\net6.0\CardOfDecksQueueSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 11 and 12 prorams\CardOfDecksQueueSorted\obj\Debug\net6.0\CardOfDecksQueueSorted.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\CardOfDecksQueueSorted\obj\Debug\net6.0\CardOfDecksQueueSorted.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 11 and 12 prorams\CardOfDecksQueueSorted\obj\Debug\net6.0\CardOfDecksQueueSorted.csproj.CoreCompileInputs.cache

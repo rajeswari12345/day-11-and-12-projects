@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingLinkedListCompanyShares\obj\Debug\net6.0\StockAccountUsingLinkedListCompanyShares.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingLinkedListCompanyShares\obj\Debug\net6.0\StockAccountUsingLinkedListCompanyShares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingLinkedListCompanyShares\obj\Debug\net6.0\StockAccountUsingLinkedListCompanyShares.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingLinkedListCompanyShares\obj\Debug\net6.0\StockAccountUsingLinkedListCompanyShares.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 11 and 12 prorams\StockAccountUsingLinkedListCompanyShares\obj\Debug\net6.0\StockAccountUsingLinkedListCompanyShares.csproj.CoreCompileInputs.cache

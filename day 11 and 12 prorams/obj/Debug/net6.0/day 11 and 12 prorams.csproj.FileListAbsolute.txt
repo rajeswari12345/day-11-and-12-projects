@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 11 and 12 prorams\day 11 and 12 prorams\obj\Debug\net6.0\day 11 and 12 prorams.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\day 11 and 12 prorams\obj\Debug\net6.0\day 11 and 12 prorams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 11 and 12 prorams\day 11 and 12 prorams\obj\Debug\net6.0\day 11 and 12 prorams.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 11 and 12 prorams\day 11 and 12 prorams\obj\Debug\net6.0\day 11 and 12 prorams.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 11 and 12 prorams\day 11 and 12 prorams\obj\Debug\net6.0\day 11 and 12 prorams.csproj.CoreCompileInputs.cache
